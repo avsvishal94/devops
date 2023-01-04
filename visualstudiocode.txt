@@ -1,0 +1,1 @@
+Today we are discussing how to use git commands through visual studio code.
