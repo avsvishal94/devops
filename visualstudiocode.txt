@@ -1,1 +1,2 @@
 Today we are discussing how to use git commands through visual studio code.
+Making changes to test git pull through visual studio code
